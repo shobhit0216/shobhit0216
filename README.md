@@ -1,6 +1,6 @@
-- 👋 Hi, I’m shobhit Chaudhary
--  🌱 I’m currently pursuing Btech in Computer Science
-- 👀 I’m interested in Cloud Computing ,web Devlopment
+- 👋 Hi, I’m Shobhit Chaudhary
+- 🌱 I’m currently pursuing Btech in Computer Science
+- 👀 I’m interested in Cloud Computing ,Web Devlopment
 
 
 <!---
