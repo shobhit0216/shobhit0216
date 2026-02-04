@@ -21,9 +21,7 @@
 
 ---
 
-### 📌 Featured Project
-🔹 *Student Management System (SQL)*  
-> A relational database project to manage students, courses, and enrollments using MySQL.
+
 
 
 
