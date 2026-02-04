@@ -23,12 +23,6 @@
 
 
 
-
-
-
-
----
-
 ### 🤝 Let's Connect
 - 🔗 GitHub: https://github.com/shobhit0216
 - 💼 Open to internships & learning opportunities
