@@ -25,10 +25,7 @@
 🔹 *Student Management System (SQL)*  
 > A relational database project to manage students, courses, and enrollments using MySQL.
 
-📂 Repo:  
-👉 https://github.com/shobhit0216/Student-Management-System-SQL
 
----
 
 ### 📈 GitHub Stats
 <p align="center">
