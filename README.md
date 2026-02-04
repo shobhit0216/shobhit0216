@@ -17,6 +17,7 @@
   <img src="https://img.shields.io/badge/C++-Programming-orange?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Git-GitHub-black?style=for-the-badge" />
   <img src="https://img.shields.io/badge/HTML-CSS-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cloud%20Computing-AWS%20%7C%20Azure%20%7C%20GCP-blue?style=for-the-badge&logo=amazonaws" />
 </p>
 
 ---
